@@ -1,0 +1,22 @@
+{ 
+   "1" : {
+     "id": "1",
+     "title": "How?",
+     "content": "Please help!",
+     "tags": ["general"]  
+   },
+   "23": {
+        "id": "23",
+        "title": "When?",
+        "content": "When does rest come?",
+        "tags": ["faq"]
+    },
+    "42": {
+        "id": "42",
+        "title": "Life?",
+        "content": "What is the meaning of life?",
+        "tags": ["philosophy", "faq"]
+    }
+ }
+
+ 
